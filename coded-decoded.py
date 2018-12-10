@@ -1,3 +1,4 @@
+#simple coding decoding program
 sentence = input ("Input your text: ")
 codedSentence = []
 uncodedSentence = []
